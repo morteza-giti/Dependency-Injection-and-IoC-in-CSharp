@@ -1,0 +1,10 @@
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\bin\Debug\DIDemo.exe.config
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\bin\Debug\DIDemo.exe
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\bin\Debug\DIDemo.pdb
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\obj\Debug\DIDemo.csproj.CoreCompileInputs.cache
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\obj\Debug\DIDemo.exe
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\obj\Debug\DIDemo.pdb
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\DIDemo\obj\Debug\DIDemo.csprojResolveAssemblyReference.cache

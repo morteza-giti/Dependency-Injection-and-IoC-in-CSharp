@@ -1,0 +1,16 @@
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\UnityIoCDemo.exe.config
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\UnityIoCDemo.exe
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\UnityIoCDemo.pdb
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\obj\Debug\UnityIoCDemo.csprojResolveAssemblyReference.cache
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\obj\Debug\UnityIoCDemo.csproj.CoreCompileInputs.cache
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\obj\Debug\UnityIoCDemo.exe
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\obj\Debug\UnityIoCDemo.pdb
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\green leaf\source\repos\DI_IOC_ProVid\UnityIoCDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
